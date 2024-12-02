@@ -1,0 +1,3 @@
+/Users/wakefield/CLionProjects/AVLTrees/cmake-build-debug/CMakeFiles/AVLTrees.dir
+/Users/wakefield/CLionProjects/AVLTrees/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wakefield/CLionProjects/AVLTrees/cmake-build-debug/CMakeFiles/rebuild_cache.dir

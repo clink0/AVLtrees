@@ -1,0 +1,3 @@
+/Users/wakefield/Documents/GitHub/AVLtrees/.idea/cmake-build-debug/CMakeFiles/_idea.dir
+/Users/wakefield/Documents/GitHub/AVLtrees/.idea/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wakefield/Documents/GitHub/AVLtrees/.idea/cmake-build-debug/CMakeFiles/rebuild_cache.dir
